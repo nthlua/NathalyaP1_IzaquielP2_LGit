@@ -34,8 +34,5 @@ public class Animal {
 	public void setTipo(String tipo) {
 		this.tipo = tipo;
 	}
-	
-	public boolean AnimaisIguais(nome, tipo) {
-		
-	}
 
+}
